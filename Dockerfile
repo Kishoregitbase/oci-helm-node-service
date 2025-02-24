@@ -1,4 +1,4 @@
-FROM node:12-alpine
+FROM iad.ocir.io/intoraclerohit/node:12-alpine
 
 # following https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 
